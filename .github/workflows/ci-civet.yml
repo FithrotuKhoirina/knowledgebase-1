@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: creates output
-        run:  sh ./build.sh
+        run:  sh ./build-civet.sh
       - name: Pushes to another repository
         uses: rochmadnurdin/knowledgebase@master
         env:
