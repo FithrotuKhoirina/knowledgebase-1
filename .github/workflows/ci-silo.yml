@@ -23,6 +23,6 @@ jobs:
         with:
           source-directory: 'output'
           destination-github-username: 'rochmadnurdin'
-          destination-repository-name: 'System'
+          destination-repository-name: 'silo'
           user-email: rochmadnurdin@gmail.com
 
