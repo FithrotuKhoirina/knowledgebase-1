@@ -1,1 +1,43 @@
-= From Xpander
+= Xpander
+
+== *Overview*
+
+Xpander adalah platform untuk mengelola transaksi pembelian pulsa dan
+paket data dari melalui system kita yang akan kita hubungkan ke Biller.
+Xpander memungkinkan tim operasional untuk melakukan pendataan status
+order dari Partner ataupun Biller.Untuk saat ini, Platform Xpander hanya
+bisa digunakan untuk produk isi pulsa , paket data dan game voucher.
+
+=== *Anggota Tim Xpander*
+
+[cols=",,",options="header",]
+|===
+|*Name* |*Role* |*Email*
+|Pipit Puspitasari |Product Owner |pipit@alterra.id
+|Ananto Eko Hendarto |Developer Manager |anton@alterra.id
+|Kurniawan Eko Wasono |Lead Developer |iwan@alterra.id
+|Johanes Paulus Giovani Putra |Lead Quality Engineer |johanes@alterra.id
+|Pipit Puspitasari |Ex Lead System Analyst |pipit@alterra.id
+|===
+
+=== *Informasi Teknis*
+
+<<xpander/xpander-url.adoc#, Developer Onboarding>>
+
+<<xpander/xpander-technology.adoc#, Technology>>
+
+<<xpander/xpander-environment.adoc#, Environment>>
+
+
+=== *Onboarding Information*
+
+<<xpander/xpander-dev-onboardig.adoc#, Developer Onboarding>>
+
+
+=== *Documentation*
+
+<<civet/xpander-katalog-proses.adoc#, Katalog Process>>
+
+User Guide
+
+<<xpander/adr-template/source_architecture_template.adoc#, Documen ADR>>
