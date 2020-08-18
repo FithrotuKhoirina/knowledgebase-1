@@ -1,0 +1,16 @@
+= Architecture
+
+=== Related System
+
+[cols=",,",options="header",]
+|===
+|*No* |*System Name* |*Description*
+|1 |Kraken Lite |_Backend/Core system_ Sepulsa _with own stock_
+|2 |Robusta |_Front end_ Civet
+|3 |Takoyaki |_Promo & SMS Worker for_ Kraken
+|4 |Meowth |_Service for promotion system_
+|===
+
+=== High Level Architecture
+
+

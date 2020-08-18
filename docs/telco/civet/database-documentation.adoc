@@ -1,0 +1,5 @@
+= Database Documentation
+
+Berikut ini merupakan kredensial database Civet.
+
+https://docs.google.com/a/sepulsa.com/spreadsheets/d/1UuYjnI3BK1_3Vm8mleorWUC5gRJGFB0dWrJ5sEIodJc/edit?usp=sharing

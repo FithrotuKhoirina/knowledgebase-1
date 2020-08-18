@@ -1,0 +1,25 @@
+= Developer Onboarding
+
+=== Tools
+
+Berikut ini merupakan _tools_ yang digunakan dalam pengembangan sistem
+Civet:
+
+[cols=",",options="header",]
+|===
+|*Tools* |*Name*
+|Web Server |MAMP
+|Manual Test API |Postman
+|Browser |Chrome, Firefox
+|Programming Language |PHP 7.3
+|Database |MySQL
+|Framework |Drupal
+|===
+
+=== Local Machine Setup
+
+* Unduh proyek ini dari github repository +
+* Move folder yang sudah didownload ke dalam htdocs
+* Masuk folder sites/default/
+* Copy default.settings.php jadi setting.php dan siapkan local
+configurations-mu

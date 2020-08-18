@@ -1,0 +1,6 @@
+= Naming Convention
+
+Pada Drupal, sistem dibangun berdasarkan modul tertentu pada Drupal 7.
+Silahkan ikuti
+https://www.drupal.org/docs/7/creating-custom-modules[_Convention_]
+berikut.

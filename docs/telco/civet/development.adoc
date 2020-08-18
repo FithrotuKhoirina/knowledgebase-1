@@ -1,0 +1,32 @@
+= Development
+
+=== Gitflow
+
+image:./images/civet-gitflow.png[Gitflow Civet]
+
+=== Workflow
+
+Berikut merupakan flow dan wireframe sistem Civet:
+
+https://docs.google.com/spreadsheets/u/1/d/1OyQBW-EYNmhvvK-oWx72Ifx_2ldchPUZdvBpjcgWvWk/edit#gid=0
+
+=== Development
+
+Hal-hal yang harus diperhatikan Developer ketika mereka _clone_ Civet:
+
+[arabic]
+. Atur Kraken API (_after create partner_ di Kraken). Di
+menu Configuration -> Web Services -> Kraken API Settings dan di
+*menu/admin/commerce/config/topup/provider/kraken.*
+. Atur Veritrans Callback. Tetapkan _client key_ di setiap aturan metode
+pembayaran dan _set_ Civet _url callback_ di menu Admin Sepulsa
+Veritrans.
+. _Set_ _email header_ di _mimemail file_(_code_).
+. _Set_ _product package code_ di
+*/admin/commerce/config/product-variation-types/pulsa/fields/field_package_code*.
+. _Set completion message_ untuk _Thank You page_ Frigate di
+*/admin/commerce/config/checkout/form/pane/checkout_completion_message*.
+. _Set tools_ untuk CS and Ops (misalnya, _reprocess transaction_ atau
+laporan yang diperlukan dari Ops)
+. _Set MDR module_ (opsional jika _partner_ menginginkan _MDR fee_ yang
+dibayar pelanggan).

@@ -1,0 +1,12 @@
+= Technology
+
+[cols=",",options="header",]
+|===
+|*Specification* |*Name*
+|OS |Debian 10
+|Web Server |NGINX
+|Programming Language |PHP 7.3
+|Framework |Drupal
+|DBMS |Mysql
+|Others |Redis
+|===

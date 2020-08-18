@@ -1,0 +1,76 @@
+= Civet
+
+=== Summary
+
+==== Informasi Umum
+
+Civet merupakan _clone_ dari sistem Pronghorn. Civet sendiri memiliki
+_frontend_ yang dinamakan Robusta. Sistem ini merupakan sistem yang
+berfungsi untuk memproses transaksi-transaksi _partner_ dari Whitelabel,
+terutama dalam bidang telekomunikasi. Beberapa produk yang tersedia dan
+dapat diproses oleh Civet adalah:  - Pulsa - Paket Data - dan lain-lain
+
+Cara pembayaran yang dapat dilakukan dengan sistem Civet di antaranya
+adalah: - Credit Card - Jenius - OVO - Kredivo - Gopay - Dana
+
+Dalam memproses transaksi, sistem ini menerima order atau transaksi dari
+_frontend_ Robusta, kemudian transaksi tersebut dilanjutkan dan diproses
+di Kraken.
+
+==== Latar Belakang Penamaan Sistem
+
+Civet dalam bahasa Indonesia berarti musang. Musang adalah mamalia
+bersifat nokturnal yang bertubuh kecil dan lentur. Sebagian besar
+populasi musang berasal dari Asia dan Afrika, terutama daerah dengan
+hutan tropis. Musang memiliki bentuk badan yang mirip seperti kucing,
+dengan bentuk muka seperti luwak atau berang-berang. Panjang musang
+dapat berkisar antara 43 hingga 71 meter (belum termasuk panjang ekor)
+sedangkan beratya mencapai 1,4 hingga 4,5 kg.
+
+==== Anggota Tim Civet
+
+
+|===
+|*Name* |*Role* |*Email*
+|Pipit Puspitasari |Product Owner |pipit@alterra.id
+|Ananto Eko Hendarto |Developer Manager |anton@alterra.id
+|Kurniawan Eko Wasono |Lead Developer |iwan@alterra.id
+|Johanes Paulus Giovani Putra |Lead Quality Engineer |johanes@alterra.id
+|Pipit Puspitasari |Ex Lead System Analyst |pipit@alterra.id
+|===
+
+=== Informasi Teknis
+
+<<civet/url.adoc#, Sytem Url>>
+
+<<civet/architecture.adoc#, Architecture>>
+
+<<civet/technology.adoc#, Technology>>
+
+<<civet/environment.adoc#, Environment>>
+
+<<civet/database-documentation.adoc#, Database>>
+
+<<civet/release-deployment.adoc#, Release and Deployment>>
+
+
+=== Onboarding Information
+
+<<civet/developer-onboarding.adoc#, Developer Onboarding>>
+
+<<civet/development.adoc#, Development>>
+
+<<civet/naming-convention.adoc#, Convention>>
+
+
+=== Dokumentasi
+
+User Guide
+
+https://pron.sumpahpalapa.com/swaggerui/index.html[API Documentation]
+
+Documen Integrasi
+
+https://github.com/sepulsa/civet/releases[Release Note]
+
+<<civet/adr-template/source_architecture_template.adoc#, Documen ADR>>

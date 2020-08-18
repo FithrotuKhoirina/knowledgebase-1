@@ -1,0 +1,52 @@
+= Release dan Deployment
+
+== Schedule and Steps
+
+=== *Production Release Step:*
+
+*Don’ts:*
+
+[arabic]
+. Tidak membuat _Pull Request_ setelah _task_ diterima oleh QA.
+. Jangan _merge_ PR untuk ``pre-release'' tanpa konfirmasi kepada orang
+yang membuat _release_.
+. _Unprotected branch_ ``Master'' and ``Pre-release''.
+
+*Do’s:*
+
+[arabic]
+. Setiap SE (Software Engineer) harus membuat _Pull Request_ untuk
+``release'' _branch_ setelah _task_ diterima oleh QA.
+. A.S.A.P untuk no.1
+. Release Person, harus membuat _release notes_ untuk setiap _task_ yang
+siap untuk _release_
+[arabic]
+.. Minimal sehari penuh sebelum jadwal _release_, _release_ harus
+dilakukan
+.. Periksa semua PR
+.. _Merge_ PR _task_ satu per satu menjadi ``pre-release''
+.. Jika ada _conflict_ : _resolve it_. Jika tidak yakin, berkoordinasi
+dengan SE yang bekerja untuk _task_ itu.
+.. Setelah semua berhasil di-_merge_ menjadi ``pre-release'' : Buat
+*RELEASE DRAFT* on github. Tandai _tag_ untuk nomor versi: 1.x.x (
+_major, medium, single-task_)
+.. Finalisasi _release_ dari langkah no. 5
+.. Lakukan PR dari ``pre-release'' ke _branch_ ``master''
+.. Peringatan : Semua PR _MERGED INTO MASTER WILL BE RELEASED TO
+PRODUCTION_ (kecuali untuk beberapa repo, yaitu: Terra)
+
+==== *Development & UAT Release*
+
+[arabic]
+. Semua langkah sama untuk _release guide_ sebelumnya
+. Kecuali:
+[arabic]
+.. Tidak perlu membuat _Tag release_
+.. Merge ke _branch_ ``development'' untuk _deploy_ ke _development
+server_
+
+== Deployment
+
+Jadwal _development_ tentatif, idealnya _release_ harus di-_deploy_
+sebelum _Sprint Review_. Jika tidak memungkinkan, _release_ harus
+digunakan dalam rentang _sprint_ sesudahnya.
