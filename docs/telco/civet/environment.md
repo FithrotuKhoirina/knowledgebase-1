@@ -1,0 +1,84 @@
+---
+title: "Environment Civet"
+date: "2019-09-02"
+document type: "6"
+author: "Ariqy Raihan"
+summary: "Dokumen ini berisikan informasi environment dari Civet"
+---
+
+# Environment
+
+## Development/Staging
+
+### MyAxis
+
+| **Nama**         | **Spesifikasi**                           |
+| ------------ | ------------------------------------- |
+| IP Address    | 103.117.207.62                        |
+| URL          | https://myaxiscivet-uat.alphabill.id/ |
+| Doc Root     | /sepulsa/www/myaxiscivet              |
+| Service Name | myaxis-uat                            |
+| DB Server    | localhost:3***                        |
+| Git Branch   | civet-xl - dev-myxl                   |
+
+
+
+### MyXL
+
+| **Nama**         | **Spesifikasi**                         |
+| ------------ | ----------------------------------- |
+| IP Address   | 103.117.207.13                      |
+| URL          | https://myxlcivet-uat.alphabill.id/ |
+| Doc Root     | /sepulsa/www/myxlcivet-test         |
+| Service Name | myxl-***                            |
+| DB Server    | localhost:3***                      |
+| Git Branch   | civet-xl - dev-myxl                 |
+
+
+### MyPrio
+
+| **Nama**         | **Spesifikasi**                         |
+| ------------ | ----------------------------------- |
+| IP Address   | 34.101.179.198                      |
+| URL          |https://xlpriocivet-uat.alphabill.id/|
+| Doc Root     | /alphabill/www/xlpriocivet         |
+| Service Name | -                          |
+| DB Server    | localhost:3***                 |
+| Git Branch   | civet-xl - staging-xlprio               |
+
+
+## Production
+
+### MyAxis
+
+| **Nama**         | **Spesifikasi** |
+| ------------ | ----------- |
+| IP Address   | 34.101.177.19         |
+| URL          | https://myaxiscivet.alphabill.id/          |
+| Doc Root     | /alphabill/www/myaxiscivet         |
+| Service Name | -           |
+| DB Server    | localhost:3***           |
+| Git Branch   | civet-xl - develop-myaxis          |
+
+### MyXL
+
+| **Nama**         | **Spesifikasi**                       |
+| ------------ | --------------------------------- |
+| IP Address   | 13.251.78.95                      |
+| URL          | <https://myxlcivet.alphabill.id/> |
+| Doc Root     | /sepulsa/www/myxlcivet            |
+| Service Name | MyXL-Civet-Alphabill-1*****       |
+| DB Server    | localhost:3***                    |
+| Git Branch   | civet-xl - master                 |
+
+### MyPrio
+
+| **Nama**         | **Spesifikasi**                         |
+| ------------ | ----------------------------------- |
+| IP Address   | 34.101.109.225                      |
+| URL          |https://xlpriocivet.alphabill.id/|
+| Doc Root     | /alphabill/www/xlpriocivet         |
+| Service Name | -                          |
+| DB Server    | localhost:3***                 |
+| Git Branch   | civet-xl - development-xlprio             |
+
