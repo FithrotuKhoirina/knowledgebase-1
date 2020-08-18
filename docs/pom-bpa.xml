@@ -34,8 +34,8 @@
         <maxRequestsPerSecond></maxRequestsPerSecond>
         <spaceKey>SYS</spaceKey>
         <ancestorId>79659116/</ancestorId>
-        <username>darma@alterra.id</username> <!-- or read from property -->
-        <password>4BMsZBcGGiSVP9yPD8dW2437</password> <!-- or read from property -->
+        <username>${username}</username> <!-- or read from property -->
+        <password>${password}</password> <!-- or read from property -->
         <pageTitlePrefix xml:space="preserve"></pageTitlePrefix>
         <pageTitleSuffix xml:space="preserve"></pageTitleSuffix>
         <versionMessage>Version ${project.version}</versionMessage>
