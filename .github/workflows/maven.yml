@@ -1,8 +1,7 @@
 name: Confluence Publisher 
 
 on:
-    push:
-      release: [ BPA ]
+    release: [ BPA ]
   
 jobs:
     build:
