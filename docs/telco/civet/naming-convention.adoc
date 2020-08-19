@@ -1,4 +1,4 @@
-= Naming Convention
+= Naming Convention Civet
 
 Pada Drupal, sistem dibangun berdasarkan modul tertentu pada Drupal 7.
 Silahkan ikuti

@@ -1,4 +1,4 @@
-= Civet Test
+= Civet 
 
 == Summary
 
@@ -41,26 +41,26 @@ sedangkan beratya mencapai 1,4 hingga 4,5 kg.
 
 == Informasi Teknis
 
-<<civet/url.adoc#, Sytem Url>>
+<<civet/url.adoc#, Sytem Url Civet>>
 
-<<civet/architecture.adoc#, Architecture>>
+<<civet/architecture.adoc#, Architecture Civet>>
 
-<<civet/technology.adoc#, Technology>>
+<<civet/technology.adoc#, Technology Civet>>
 
-<<civet/environment.adoc#, Environment>>
+<<civet/environment.adoc#, Environment Civet>>
 
-<<civet/database-documentation.adoc#, Database>>
+<<civet/database-documentation.adoc#, Database Civet>>
 
-<<civet/release-deployment.adoc#, Release and Deployment>>
+<<civet/release-deployment.adoc#, Release and Deployment Civet>>
 
 
 == Onboarding Information
 
-<<civet/developer-onboarding.adoc#, Developer Onboarding>>
+<<civet/developer-onboarding.adoc#, Developer Onboarding Civet>>
 
-<<civet/development.adoc#, Development>>
+<<civet/development.adoc#, Development Civet>>
 
-<<civet/naming-convention.adoc#, Convention>>
+<<civet/naming-convention.adoc#, Convention Civet>>
 
 
 == Dokumentasi

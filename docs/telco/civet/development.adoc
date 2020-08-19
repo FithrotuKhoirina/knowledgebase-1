@@ -1,5 +1,4 @@
-= Development
-= Development
+= Development Civet
 
 == Gitflow
 
