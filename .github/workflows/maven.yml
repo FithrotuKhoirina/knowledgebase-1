@@ -2,7 +2,7 @@ name: Confluence Publisher
 
 on:
   push:
-     branches: [ BPA ]
+     #branches: [ BPA ]
      tags: 
        - 'v*'
   pull_request:
