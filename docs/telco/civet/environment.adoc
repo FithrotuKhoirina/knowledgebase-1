@@ -7,8 +7,8 @@
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |103.117.207.62
-|URL |https://myaxiscivet-uat.alphabill.id/
-|Doc Root |/sepulsa/www/myaxiscivet
+|URL |https://myaxiscivet-uat.alphabill.id/[]
+|Doc Root |/sepulsa/www/myaxiscivet[]
 |Service Name |myaxis-uat
 |DB Server |localhost:3***
 |Git Branch |civet-xl - dev-myxl
@@ -19,7 +19,7 @@
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |103.117.207.13
-|URL |https://myxlcivet-uat.alphabill.id/
+|URL |https://myxlcivet-uat.alphabill.id/[]
 |Doc Root |/sepulsa/www/myxlcivet-test
 |Service Name |myxl-***
 |DB Server |localhost:3***
@@ -31,7 +31,7 @@
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |34.101.179.198
-|URL |https://xlpriocivet-uat.alphabill.id/
+|URL |https://xlpriocivet-uat.alphabill.id/[]
 |Doc Root |/alphabill/www/xlpriocivet
 |Service Name |-
 |DB Server |localhost:3***
@@ -45,7 +45,7 @@
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |34.101.177.19
-|URL |https://myaxiscivet.alphabill.id/
+|URL |https://myaxiscivet.alphabill.id/[]
 |Doc Root |/alphabill/www/myaxiscivet
 |Service Name |-
 |DB Server |localhost:3***
@@ -57,7 +57,7 @@
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |13.251.78.95
-|URL |https://myxlcivet.alphabill.id/
+|URL |https://myxlcivet.alphabill.id/[]
 |Doc Root |/sepulsa/www/myxlcivet
 |Service Name |MyXL-Civet-Alphabill-1*****
 |DB Server |localhost:3***
@@ -69,7 +69,7 @@
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |34.101.109.225
-|URL |https://xlpriocivet.alphabill.id/
+|URL |https://xlpriocivet.alphabill.id/[]
 |Doc Root |/alphabill/www/xlpriocivet
 |Service Name |-
 |DB Server |localhost:3***

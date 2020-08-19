@@ -1,4 +1,4 @@
-= Civet
+= Civet Test
 
 == Summary
 
@@ -73,4 +73,4 @@ Documen Integrasi
 
 https://github.com/sepulsa/civet/releases[Release Note]
 
-<<civet/adr-template/source_architecture_template.adoc#, Documen ADR>>
+<<civet/adr-template/source_architecture_template.adoc#, Document ADR>>

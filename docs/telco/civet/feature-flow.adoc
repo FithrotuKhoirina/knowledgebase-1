@@ -6,13 +6,7 @@
 |===
 |*Name* |*Flow* |*Files*
 |User Management |Flow
-|https://www.lucidchart.com/documents/edit/dd0d4e46-7b43-4efe-8502-c0698b9bf731?shared=true&
+|https://www.lucidchart.com/documents/edit/dd0d4e46-7b43-4efe-8502-c0698b9bf731?shared=true&[]
 
-| | |
-
-| | |
-
-| | |
-
-| | |
 |===
+

@@ -1,4 +1,5 @@
 = Development
+= Development
 
 == Gitflow
 
@@ -8,7 +9,7 @@ image:./images/civet-gitflow.png[Gitflow Civet]
 
 Berikut merupakan flow dan wireframe sistem Civet:
 
-https://docs.google.com/spreadsheets/u/1/d/1OyQBW-EYNmhvvK-oWx72Ifx_2ldchPUZdvBpjcgWvWk/edit#gid=0
+https://docs.google.com/spreadsheets/u/1/d/1OyQBW-EYNmhvvK-oWx72Ifx_2ldchPUZdvBpjcgWvWk/edit#gid=0 []
 
 == Development
 

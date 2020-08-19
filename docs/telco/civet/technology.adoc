@@ -1,6 +1,5 @@
 = Technology
 
-
 |===
 |*Specification* |*Name*
 |OS |Debian 10
