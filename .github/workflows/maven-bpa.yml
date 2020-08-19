@@ -1,14 +1,9 @@
-name: Confluence Publisher 
+name: Confluence Publisher BPA
 
 on:
   push:
-     #branches: [ BPA ]
      tags: 
-       - 'v*'
-  #pull_request:
-    # branches: [ master ]
-           
-  
+       - 'BPA v*'
 jobs:
     build:
   
