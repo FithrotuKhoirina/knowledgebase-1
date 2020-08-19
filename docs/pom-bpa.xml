@@ -32,8 +32,8 @@
         <rootConfluenceUrl>https://alterra.atlassian.net/wiki</rootConfluenceUrl>
         <skipSslVerification></skipSslVerification>
         <maxRequestsPerSecond></maxRequestsPerSecond>
-        <spaceKey>SYS</spaceKey>
-        <ancestorId>86606170</ancestorId>
+        <spaceKey>GUID</spaceKey>
+        <ancestorId>87720360</ancestorId>
         <username>${username}</username> <!-- or read from property -->
         <password>${password}</password> <!-- or read from property -->
         <pageTitlePrefix xml:space="preserve"></pageTitlePrefix>

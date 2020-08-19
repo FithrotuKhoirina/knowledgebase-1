@@ -1,4 +1,4 @@
-= *Katalog Proses dan Log*
+= Katalog Proses dan Log
 
 Berikut ini merupakan informasi Katalog Proses dan Log dari sistem
 Xpander:

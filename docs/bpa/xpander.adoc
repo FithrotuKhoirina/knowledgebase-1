@@ -1,6 +1,6 @@
 = Xpander
 
-== *Overview*
+== Overview Test2
 
 Xpander adalah platform untuk mengelola transaksi pembelian pulsa dan
 paket data dari melalui system kita yang akan kita hubungkan ke Biller.
@@ -8,7 +8,7 @@ Xpander memungkinkan tim operasional untuk melakukan pendataan status
 order dari Partner ataupun Biller.Untuk saat ini, Platform Xpander hanya
 bisa digunakan untuk produk isi pulsa , paket data dan game voucher.
 
-=== *Anggota Tim Xpander*
+=== Anggota Tim Xpander
 
 |===
 |*Name* |*Role* |*Email*
@@ -19,24 +19,22 @@ bisa digunakan untuk produk isi pulsa , paket data dan game voucher.
 |Pipit Puspitasari |Ex Lead System Analyst |pipit@alterra.id
 |===
 
-=== *Informasi Teknis*
+=== Informasi Teknis
 
-<<xpander/xpander-url.adoc#, Developer Onboarding>>
+<<xpander/xpander-url.adoc#, System Url Xpander>>
 
-<<xpander/xpander-technology.adoc#, Technology>>
+<<xpander/xpander-technology.adoc#, Technology Xpander>>
 
-<<xpander/xpander-environment.adoc#, Environment>>
+<<xpander/xpander-environment.adoc#, Environment Xpander>>
 
 
 === *Onboarding Information*
-
-<<xpander/xpander-dev-onboardig.adoc#, Developer Onboarding>>
-
+<<xpander/xpander-dev-onboardig.adoc#, Developer Onboarding Xpander>>
 
 === *Documentation*
 
-<<xpander/xpander-katalog-proses.adoc#, Katalog Process>>
+<<xpander/xpander-katalog-proses.adoc#, Katalog Process Xpander>>
 
-User Guide
+// <<xpander/xpander.adoc#, User Guide>>
 
-<<xpander/adr-template/source_architecture_template.adoc#, Documen ADR>>
+<<xpander/adr-template/source_architecture_template.adoc#, Document ADR Xpander>>
