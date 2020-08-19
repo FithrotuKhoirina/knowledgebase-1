@@ -3,7 +3,7 @@ name: Confluence Publisher BPA
 on:
   push:
      tags: 
-       - 'BPA v*'
+       - 'v*-bpa'
 jobs:
     build:
   
