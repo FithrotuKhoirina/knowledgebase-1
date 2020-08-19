@@ -36,7 +36,7 @@ bisa digunakan untuk produk isi pulsa , paket data dan game voucher.
 
 === *Documentation*
 
-<<civet/xpander-katalog-proses.adoc#, Katalog Process>>
+<<xpander/xpander-katalog-proses.adoc#, Katalog Process>>
 
 User Guide
 
