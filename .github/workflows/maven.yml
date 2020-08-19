@@ -1,11 +1,11 @@
 name: Confluence Publisher 
 
 on:
-    push:
-      branch: [ BPA ]
+  push:
+    # branches: [ BPA ]
         tags: 
           - 'v*'
-      branch: [Telco]
+    # branches: [Telco]
         tags:
           - 'v*'
   
