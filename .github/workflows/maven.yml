@@ -2,12 +2,9 @@ name: Confluence Publisher
 
 on:
   push:
-    # branches: [ BPA ]
-        tags: 
-          - 'v*'
-    # branches: [Telco]
-        tags:
-          - 'v*'
+     branches: [ BPA ]
+     tags: 
+       - 'v*'
   
 jobs:
     build:
