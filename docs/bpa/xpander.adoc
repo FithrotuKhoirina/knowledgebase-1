@@ -10,7 +10,6 @@ bisa digunakan untuk produk isi pulsa , paket data dan game voucher.
 
 === *Anggota Tim Xpander*
 
-[cols=",,",options="header",]
 |===
 |*Name* |*Role* |*Email*
 |Pipit Puspitasari |Product Owner |pipit@alterra.id
