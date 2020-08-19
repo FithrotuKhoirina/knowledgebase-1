@@ -33,7 +33,7 @@
         <skipSslVerification></skipSslVerification>
         <maxRequestsPerSecond></maxRequestsPerSecond>
         <spaceKey>GUID</spaceKey>
-        <ancestorId>87720360</ancestorId>
+        <ancestorId>87818807</ancestorId>
         <username>${username}</username> <!-- or read from property -->
         <password>${password}</password> <!-- or read from property -->
         <pageTitlePrefix xml:space="preserve"></pageTitlePrefix>
