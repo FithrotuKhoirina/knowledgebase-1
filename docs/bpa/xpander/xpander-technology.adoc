@@ -1,6 +1,6 @@
-== *Technology*
+= *Technology*
 
-[cols=",",options="header",]
+
 |===
 |*Spesification* |*Name*
 |OS |Debian 9

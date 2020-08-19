@@ -1,8 +1,7 @@
-== *Environment*
+= Environment
 
-=== Staging
+== Staging
 
-[cols=",",options="header",]
 |===
 |*Name* |*Spesification*
 |IP Address |103.117.207.40
@@ -13,9 +12,8 @@
 |Git Branch |-
 |===
 
-=== Production
+== Production
 
-[cols=",",options="header",]
 |===
 |*Name* |*Spesification*
 |IP Address |103.117.207.54

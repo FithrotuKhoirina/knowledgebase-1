@@ -1,8 +1,8 @@
-== *System URL*
+= *System URL*
 
 Berikut ini merupakan _link-link_ yang digunakan oleh sistem Xpander:
 
-[cols=",",options="header",]
+
 |===
 |*Environment* |*URL*
 |*Staging* |*https://xpander-uat.alphabill.id/*

@@ -3,7 +3,7 @@
 Berikut ini merupakan informasi Katalog Proses dan Log dari sistem
 Xpander:
 
-[width="100%",cols="9%,24%,18%,20%,9%,20%",]
+
 |===
 |ID |API Category |Deskripsi |Privileges |Tags |Pivotal ID
 

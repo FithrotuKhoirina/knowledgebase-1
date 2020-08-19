@@ -1,6 +1,6 @@
-== *Developer Onboarding*
+= Developer Onboarding
 
-[cols=",",options="header",]
+
 |===
 |*Tools* |*Name*
 |Web Server |NGINX
