@@ -1,7 +1,13 @@
 name: Confluence Publisher 
 
 on:
-    release: [ BPA ]
+    push:
+      branch: [ BPA ]
+        tags: 
+          - 'v*'
+      branch: [Telco]
+        tags:
+          - 'v*'
   
 jobs:
     build:
