@@ -19,4 +19,4 @@ jobs:
         env:
           username: ${{ secrets.Username_Darma }}
           password: ${{ secrets.API_Confluence_Darma }}
-        run: mvn org.sahli.asciidoc.confluence.publisher:asciidoc-confluence-publisher-maven-plugin:publish --file docs/pom-bpa.xml -Dusername=$username -Dpassword=$password
+        run: mvn org.sahli.asciidoc.confluence.publisher:asciidoc-confluence-publisher-maven-plugin:publish --file docs/pom-telco.xml -Dusername=$username -Dpassword=$password
