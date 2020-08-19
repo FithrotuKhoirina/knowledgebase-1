@@ -3,7 +3,7 @@ name: Confluence Publisher Telco
 on:
   push:
      tags: 
-       - 'Telco v*'
+       - 'v*-telco'
 jobs:
     build:
   
