@@ -1,6 +1,6 @@
-== System URL
+= System URL
 
-[cols=",",options="header",]
+
 |===
 |*Stage* |*URL*
 |Staging |https://myxlcivet-uat.alphabill.id/user[XL]

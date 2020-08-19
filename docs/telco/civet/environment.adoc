@@ -1,10 +1,9 @@
 = Environment
 
-=== Development/Staging
+== Development/Staging
 
-==== MyAxis
+=== MyAxis
 
-[cols=",",options="header",]
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |103.117.207.62
@@ -15,9 +14,8 @@
 |Git Branch |civet-xl - dev-myxl
 |===
 
-==== MyXL
+=== MyXL
 
-[cols=",",options="header",]
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |103.117.207.13
@@ -28,9 +26,8 @@
 |Git Branch |civet-xl - dev-myxl
 |===
 
-==== MyPrio
+=== MyPrio
 
-[cols=",",options="header",]
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |34.101.179.198
@@ -41,11 +38,10 @@
 |Git Branch |civet-xl - staging-xlprio
 |===
 
-=== Production
+== Production
 
-==== MyAxis
+=== MyAxis
 
-[cols=",",options="header",]
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |34.101.177.19
@@ -56,9 +52,8 @@
 |Git Branch |civet-xl - develop-myaxis
 |===
 
-==== MyXL
+=== MyXL
 
-[cols=",",options="header",]
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |13.251.78.95
@@ -69,9 +64,8 @@
 |Git Branch |civet-xl - master
 |===
 
-==== MyPrio
+=== MyPrio
 
-[cols=",",options="header",]
 |===
 |*Nama* |*Spesifikasi*
 |IP Address |34.101.109.225

@@ -1,16 +1,16 @@
 = Development
 
-=== Gitflow
+== Gitflow
 
 image:./images/civet-gitflow.png[Gitflow Civet]
 
-=== Workflow
+== Workflow
 
 Berikut merupakan flow dan wireframe sistem Civet:
 
 https://docs.google.com/spreadsheets/u/1/d/1OyQBW-EYNmhvvK-oWx72Ifx_2ldchPUZdvBpjcgWvWk/edit#gid=0
 
-=== Development
+== Development
 
 Hal-hal yang harus diperhatikan Developer ketika mereka _clone_ Civet:
 

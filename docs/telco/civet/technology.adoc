@@ -1,6 +1,6 @@
 = Technology
 
-[cols=",",options="header",]
+
 |===
 |*Specification* |*Name*
 |OS |Debian 10

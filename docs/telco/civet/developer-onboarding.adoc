@@ -1,11 +1,11 @@
 = Developer Onboarding
 
-=== Tools
+== Tools
 
 Berikut ini merupakan _tools_ yang digunakan dalam pengembangan sistem
 Civet:
 
-[cols=",",options="header",]
+
 |===
 |*Tools* |*Name*
 |Web Server |MAMP
@@ -16,7 +16,7 @@ Civet:
 |Framework |Drupal
 |===
 
-=== Local Machine Setup
+== Local Machine Setup
 
 * Unduh proyek ini dari github repository +
 * Move folder yang sudah didownload ke dalam htdocs

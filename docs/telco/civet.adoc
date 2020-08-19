@@ -1,8 +1,8 @@
 = Civet
 
-=== Summary
+== Summary
 
-==== Informasi Umum
+=== Informasi Umum
 
 Civet merupakan _clone_ dari sistem Pronghorn. Civet sendiri memiliki
 _frontend_ yang dinamakan Robusta. Sistem ini merupakan sistem yang
@@ -17,7 +17,7 @@ Dalam memproses transaksi, sistem ini menerima order atau transaksi dari
 _frontend_ Robusta, kemudian transaksi tersebut dilanjutkan dan diproses
 di Kraken.
 
-==== Latar Belakang Penamaan Sistem
+=== Latar Belakang Penamaan Sistem
 
 Civet dalam bahasa Indonesia berarti musang. Musang adalah mamalia
 bersifat nokturnal yang bertubuh kecil dan lentur. Sebagian besar
@@ -27,7 +27,7 @@ dengan bentuk muka seperti luwak atau berang-berang. Panjang musang
 dapat berkisar antara 43 hingga 71 meter (belum termasuk panjang ekor)
 sedangkan beratya mencapai 1,4 hingga 4,5 kg.
 
-==== Anggota Tim Civet
+=== Anggota Tim Civet
 
 
 |===
@@ -39,7 +39,7 @@ sedangkan beratya mencapai 1,4 hingga 4,5 kg.
 |Pipit Puspitasari |Ex Lead System Analyst |pipit@alterra.id
 |===
 
-=== Informasi Teknis
+== Informasi Teknis
 
 <<civet/url.adoc#, Sytem Url>>
 
@@ -54,7 +54,7 @@ sedangkan beratya mencapai 1,4 hingga 4,5 kg.
 <<civet/release-deployment.adoc#, Release and Deployment>>
 
 
-=== Onboarding Information
+== Onboarding Information
 
 <<civet/developer-onboarding.adoc#, Developer Onboarding>>
 
@@ -63,7 +63,7 @@ sedangkan beratya mencapai 1,4 hingga 4,5 kg.
 <<civet/naming-convention.adoc#, Convention>>
 
 
-=== Dokumentasi
+== Dokumentasi
 
 User Guide
 
