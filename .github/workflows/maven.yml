@@ -5,7 +5,7 @@ on:
      #branches: [ BPA ]
      tags: 
        - 'v*'
-  pull_request:
+  #pull_request:
     # branches: [ master ]
            
   
