@@ -21,20 +21,20 @@ bisa digunakan untuk produk isi pulsa , paket data dan game voucher.
 
 === Informasi Teknis
 
-<<xpander/xpander-url.adoc#, System Url Xpander>>
+<<xpander/url-xpander.adoc#, System Url Xpander>>
 
-<<xpander/xpander-technology.adoc#, Technology Xpander>>
+<<xpander/technology-xpander.adoc#, Technology Xpander>>
 
-<<xpander/xpander-environment.adoc#, Environment Xpander>>
+<<xpander/environment-xpander.adoc#, Environment Xpander>>
 
 
 === *Onboarding Information*
-<<xpander/xpander-dev-onboardig.adoc#, Developer Onboarding Xpander>>
+<<xpander/dev-onboardig-xpander.adoc#, Developer Onboarding Xpander>>
 
 === *Documentation*
 
-<<xpander/xpander-katalog-proses.adoc#, Katalog Process Xpander>>
+<<xpander/katalog-proses-xpander.adoc#, Katalog Process Xpander>>
 
 // <<xpander/xpander.adoc#, User Guide>>
 
-<<xpander/adr-template/source_architecture_template.adoc#, Document ADR Xpander>>
+<<xpander/adr-doc.adoc#, Document ADR Xpander>>
