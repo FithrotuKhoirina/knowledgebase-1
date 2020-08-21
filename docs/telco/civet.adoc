@@ -41,26 +41,26 @@ sedangkan beratya mencapai 1,4 hingga 4,5 kg.
 
 == Informasi Teknis
 
-<<civet/url.adoc#, Sytem Url Civet>>
+<<civet/url-civet.adoc#, Sytem Url Civet>>
 
-<<civet/architecture.adoc#, Architecture Civet>>
+<<civet/architecture-civet.adoc#, Architecture Civet>>
 
-<<civet/technology.adoc#, Technology Civet>>
+<<civet/technology-civet.adoc#, Technology Civet>>
 
-<<civet/environment.adoc#, Environment Civet>>
+<<civet/environment-civet.adoc#, Environment Civet>>
 
-<<civet/database-documentation.adoc#, Database Civet>>
+<<civet/database-documentation-civet.adoc#, Database Civet>>
 
-<<civet/release-deployment.adoc#, Release and Deployment Civet>>
+<<civet/release-deployment-civet.adoc#, Release and Deployment Civet>>
 
 
 == Onboarding Information
 
-<<civet/developer-onboarding.adoc#, Developer Onboarding Civet>>
+<<civet/developer-onboarding-civet.adoc#, Developer Onboarding Civet>>
 
-<<civet/development.adoc#, Development Civet>>
+<<civet/development-civet.adoc#, Development Civet>>
 
-<<civet/naming-convention.adoc#, Convention Civet>>
+<<civet/naming-convention-civet.adoc#, Convention Civet>>
 
 
 == Dokumentasi

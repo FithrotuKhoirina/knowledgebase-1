@@ -1,0 +1,81 @@
+= Ascii ADR Template
+
+
+== [ADR-0001] Example Decision
+
+* Status: [proposed | rejected | accepted | superseded by [ADR-0002](0002-new-decision.md)]
+* Deciders: [list everyone involved in the decision]
+* Date: [YYYY-MM-DD when the decision was last updated]
+
+//List below is table of content
+
+Summary: [Issue](#issue), [Decision](#decision), [Consequences](#consequences), [Related Decisions](#related-decisions)
+
+Details: [Assumptions](#assumptions), [Constraints](#constraints), [Considered Options](#considered-options), [Arguments](#arguments), [Implications](#implications) <!-- optional -->
+
+[References, Implementations and Notes](#references-implementations-and-notes)  <!-- optional -->
+
+---
+
+== Summary
+
+=== Issue
+
+Describe the context and problem statement, e.g., in free form using two to three sentences. You may want to articulate the problem in form of a question. It also can be some bullets.
+
+* [driver 1, e.g., a force, facing concern, …]
+* [driver 2, e.g., a force, facing concern, …]
+
+=== Decision
+
+Chosen option: "[option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
+
+=== Consequences
+
+Good or bad implications because the decisions. For example: The system must follow implementation reference in the bottom of this document.
+
+=== Related Decisions
+
+* [ADR-0000 Old Decision](0001-old-decision.md)
+* [ADR-0002 New Decision](0002-new-decision.md)
+* [ADR-0003 Other Decision](0002-other-decision.md)
+
+---
+
+<!-- 
+    Details Section is optional if the decision is crystal clear. But important if a decision need intense discussion or some comparison.
+-->
+
+== Details 
+
+=== Assumptions
+
+This talking about the background of above issue and how we want to solve it. 
+
+=== Contraints
+
+Preferable solution to pick. E.g. Because we already use google suite, then google login is preferable then using github login.
+
+=== Considered Options
+
+These options are solving the issue, but might not be suit with our constraints
+
+* Option 1 - It's good in get things done
+* Option 2 - The most popular options 
+* Option 3 - The most flexible options
+
+=== Arguments
+
+Argument why we choose this options. What kind of big benefit we get for that.
+
+---
+
+== References, Implementations and Notes
+
+* [Example of ADR](https://lmgtfy.com/?q=architecture-decision-records)
+* [Implementation Reference of ADR](decisions/0000-global-adr.md)
+
+Notes:
+
+* ADR must easy to read, clear decision, and not longer than 2 pages of A4.
+----
