@@ -1,5 +1,12 @@
 = Document ADR Civet
 
-related decision
 
-<<adr-doc/naming-convention-civet.adoc#, Convention Civet>>
+This document explains all decisions applied in the Civet Development. The documents below is the history of all decisions applied by the development team based on the exploration
+
+
+|===
+|*Document Title* |*Remark/Explanation*
+|001-ADR Decision A (link to template)|<<adr-doc/adr-template.adoc#, Template>>
+|002-ADR Decision B| 
+
+|===
