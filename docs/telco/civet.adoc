@@ -60,16 +60,12 @@ sedangkan beratya mencapai 1,4 hingga 4,5 kg.
 
 <<civet/development-civet.adoc#, Development Civet>>
 
-<<civet/naming-convention-civet.adoc#, Convention Civet>>
+<<civet/naming-convention-civet.adoc#, Naming Convention Civet>>
 
 
 == Dokumentasi
 
-User Guide
-
 https://pron.sumpahpalapa.com/swaggerui/index.html[API Documentation]
-
-Documen Integrasi
 
 https://github.com/sepulsa/civet/releases[Release Note]
 
