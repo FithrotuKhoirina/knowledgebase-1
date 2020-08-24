@@ -2,7 +2,7 @@
 :toc-title: 
 
 
-= [ADR-0001] Example Decision
+= [ADR-0001] ADR Decision Civet (Template)
 
 * Status: [proposed | rejected | accepted | superseded by [ADR-0002](0002-new-decision.md)]
 * Deciders: [list everyone involved in the decision]

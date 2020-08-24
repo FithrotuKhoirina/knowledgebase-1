@@ -6,7 +6,7 @@ This document explains all decisions applied in the Civet Development. The docum
 
 |===
 |*Document Title* |*Remark/Explanation*
-|001-ADR Decision A (link to template)|<<adr-doc/adr-template.adoc#, Template>>
+|001-ADR Decision A (link to template)|<<adr-doc-civet/001-adr-doc-civet.adoc#, Template>>
 |002-ADR Decision B| 
 
 |===
