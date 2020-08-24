@@ -41,7 +41,7 @@ git config --global user.name "$DEST_GITHUB_USERNAME"
 git clone --single-branch -b $DEST_BRANCH "https://$API_TOKEN_GITHUB@$DEST_GITHUB_REPO.git" "$CLONE_DIR"
 
 echo 'Copying from '"$SRC_DIR"'/*' "to $CLONE_DIR/docs"
-rm -Rf "$CLONE_DIR/docs/"
+rm -Rf "$CLONE_DIR/docs/" # Delete all docs
 mkdir -p "$CLONE_DIR/docs"
 cp -R "$SRC_DIR"/* "$CLONE_DIR/docs/" || (rm -Rf "$CLONE_DIR" && exit 1)
 
