@@ -69,4 +69,4 @@ https://pron.sumpahpalapa.com/swaggerui/index.html[API Documentation]
 
 https://github.com/sepulsa/civet/releases[Release Note]
 
-<<civet/adr-doc.adoc#, Document ADR>>
+<<civet/adr-doc-civet.adoc#, Document ADR>>
