@@ -47,4 +47,4 @@ cp -R "$SRC_DIR"/* "$CLONE_DIR/docs/" || (rm -Rf "$CLONE_DIR" && exit 1)
 cd "$CLONE_DIR"
 git add .
 git commit --message "Update from https://github.com/$GITHUB_REPOSITORY/commit/$GITHUB_SHA"
-# git push origin $DEST_BRANCH
+git push origin $DEST_BRANCH
