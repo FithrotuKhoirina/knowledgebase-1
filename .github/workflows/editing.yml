@@ -1,0 +1,23 @@
+# This CI should run after mergin from Pull Request (after editing)
+
+name: Push Back to System Repo
+
+on:
+  push:
+    branch: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    container: pandoc/latex
+    steps:
+      - uses: actions/checkout@v2
+      - name: Pushes to another repository
+        uses: rochmadnurdin/knowledgebase@master
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          destination-github-username: 'rochmadnurdin'
+          user-email: dev@alterra.id
+          destination-branch: master
+
